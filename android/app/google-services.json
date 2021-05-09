@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661398802838",
+    "project_id": "liveasy-taskapp",
+    "storage_bucket": "liveasy-taskapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661398802838:android:fcd08f58eb5cd1512a4db7",
+        "android_client_info": {
+          "package_name": "com.pranavchaudhary.liveasy_taskapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661398802838-o3cme2mnoaoedrt8kng8c3iho5ejbdth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvV1uFs4hZaqZnv4hwQKOFyNMqJYCDzeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661398802838-o3cme2mnoaoedrt8kng8c3iho5ejbdth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
