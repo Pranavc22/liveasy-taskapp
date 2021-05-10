@@ -22,6 +22,7 @@ This was also the first time I worked with the phone authentication service of F
 Here are some of the resources that helped with the completion of the task: 
 - [Firebase phone authentication documentation](https://firebase.flutter.dev/docs/auth/phone/)
 - [Firebase phone authentication setup](https://firebase.google.com/docs/auth/android/phone-auth)
+- [Firebase phone authentication video tutorial](https://www.youtube.com/watch?v=dTmgjPkBN58)
 - [RadioListTile documentation](https://api.flutter.dev/flutter/material/RadioListTile-class.html)
 - [TextFormField documentation](https://api.flutter.dev/flutter/material/TextFormField-class.html)
 - [flutter_svg package](https://pub.dev/packages/flutter_svg)
